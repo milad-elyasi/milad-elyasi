@@ -3,7 +3,6 @@
 </p>
 
 <h3 align="center">Senior Software Engineer | Laravel Specialist | Rust & AI Enthusiast</h3>
-## 🚀 About Me  
 I’m Milad — a software engineer with years of experience across diverse stacks, combining a foundation in medical laboratory science with deep software engineering expertise.  
 I focus on building robust backend systems, modern web applications, and high-performance cloud-native solutions.
 
