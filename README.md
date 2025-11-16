@@ -18,23 +18,7 @@ I focus on building robust backend systems, modern web applications, and high-pe
 ---
 
 ## 🧰 Tech Stack  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![RDBMS](https://img.shields.io/badge/RDBMS-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-FF8C00?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Microservice](https://img.shields.io/badge/Microservice-0066CC?style=for-the-badge&logo=cloudflare&logoColor=white)  
-![MessageBrokers](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=MessageBrokers&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-![Rust](https://img.shields.io/badge/Magento-F56C44?style=for-the-badge&logo=Rust&logoColor=white)
-![Java](https://img.shields.io/badge/Magento-F56C44?style=for-the-badge&logo=Java&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![RDBMS](https://img.shields.io/badge/RDBMS-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-FF8C00?style=for-the-badge&logo=mongodb&logoColor=white) ![Microservice](https://img.shields.io/badge/Microservice-0066CC?style=for-the-badge&logo=cloudflare&logoColor=white) ![MessageBrokers](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=MessageBrokers&logoColor=white) ![Rust](https://img.shields.io/badge/Magento-F56C44?style=for-the-badge&logo=Rust&logoColor=white) ![Java](https://img.shields.io/badge/Magento-F56C44?style=for-the-badge&logo=Java&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
