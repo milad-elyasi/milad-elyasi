@@ -3,14 +3,6 @@
 </p>
 
 <h3 align="center">Senior Software Engineer | Laravel Specialist | Rust & AI Enthusiast</h3>
-
-<p align="center">
-  <a href="https://github.com/milad-elyasi"><img src="https://img.shields.io/github/followers/milad-elyasi?label=Followers&style=flat-square" alt="GitHub Followers"/></a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=milad-elyasi"><img src="https://visitor-badge.laobi.icu/badge?page_id=milad-elyasi" alt="Visitor Count"/></a>
-</p>
-
----
-
 ## 🚀 About Me  
 I’m Milad — a software engineer with years of experience across diverse stacks, combining a foundation in medical laboratory science with deep software engineering expertise.  
 I focus on building robust backend systems, modern web applications, and high-performance cloud-native solutions.
@@ -54,7 +46,3 @@ I focus on building robust backend systems, modern web applications, and high-pe
   <a href="https://stackoverflow.com/users/5257498/milad-elyasi"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://github.com/milad-elyasi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-<h3 align="center">🚀 Always building. Always learning.</h3>
