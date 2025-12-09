@@ -22,22 +22,7 @@ I focus on building robust backend systems, modern web applications, and high-pe
 - Enhance legacy systems (WordPress, Magento) and migrate to modern stacks  
 - Mentor teams, refine workflows, and adopt clean-code principles  
 
----
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milad-elyasi&theme=dark&show_icons=true&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-elyasi&layout=compact&theme=dark&hide_border=false" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=milad-elyasi&theme=darkhub&no-frame=false&margin-w=8"/>
-</p>
-
----
 
 ## 🌐 Find Me Online  
 <p align="center">
